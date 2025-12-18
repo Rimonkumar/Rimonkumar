@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm <Your Name>
 
-<!--
-**Rimonkumar/Rimonkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **<Your Role / Title>**  
+💡 Passionate about **<key interests / tech areas>**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on **<project / focus>**
+- 🌱 I’m learning **<technologies you’re learning>**
+- 👯 I’m looking to collaborate on **<open-source / ideas>**
+- 💬 Ask me about **<skills / topics>**
+- 📫 How to reach me: **<email / socials>**
+- ⚡ Fun fact: **<something interesting>**
+
+---
+
+## 🛠️ Tech Stack
+**Languages**
