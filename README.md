@@ -1,73 +1,116 @@
-# Hi there! I'm Rimon Pramanik 👋 
-### Full-Stack Developer | MERN Specialist | UI/UX Enthusiast
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rimon+Pramanik+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Web+Developer;MERN+%7C+Next.js+%7C+NestJS+Specialist" alt="Typing SVG" />
+</p>
 
-<p align="left">
- <a href="https://rimonpramanik.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
- </a>
- <a href="mailto:rimonpramanik75@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rimonpramanik75@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750841-1e6a5e3b-2e3b-4a2f-bbde-2c6d7d1d6d8b.gif" width="120"/>
 </p>
 
 ---
 
-### 🚀 About Me
-I am a passionate **MERN Stack Developer** dedicated to building high-performance, scalable, and user-centric web applications. I love turning complex problems into simple, beautiful, and intuitive designs. 
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Advanced React & Node.js Projects**
-- 🌱 I’m currently learning **Next.js & TypeScript**
-- 💬 Ask me about **React, MongoDB, or UI animations**
-- 📫 Reach me at: **rimonpramanik75@gmail.com**
+I am a **Software Engineer & Full-Stack Web Developer**, recently graduated from **American International University-Bangladesh (AIUB)** with a strong academic record (**CGPA: 3.73/4.00**).
 
----
+I specialize in building **scalable, secure, and user-friendly web applications** using modern technologies such as **React, Next.js, NestJS, ASP.NET**, and relational databases.
 
-### 🛠️ Tech Stack
+- 🔭 Currently working on **Advanced React & Backend Projects**
+- 🌱 Learning **Next.js, TypeScript & System Design**
+- 💡 Interested in **Clean Architecture & Performance Optimization**
+- 📫 Reach me at: **remonkumar21@gmail.com**
 
-**Frontend:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend & Database:**
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=nodes.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Tools:**
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+🌐 Portfolio: **https://rimonpramanik.netlify.app**
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rimonpramanik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimonpramanik&layout=compact&langs_count=7&theme=tokyonight" />
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+
+
+### ⚙️ Backend
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 🧠 Programming Languages
+- JavaScript (ES6+)
+- TypeScript
+- C#
+- C++
+- Java
+- SQL / PL-SQL
+- PHP
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|------|------------|------|
+| **Perfume Management System** | Full-stack e-commerce app with authentication & cart | Next.js, NestJS, PostgreSQL |
+| **News Aggregator API** | Scalable REST API using N-Tier Architecture | ASP.NET, C#, SQL Server |
+| **IT Help Desk System** | Web app to manage IT support requests | HTML, CSS, JS, PHP |
+| **Hospital Management System** | Console-based hospital management system | C#, SQL |
+| **Melanoma Hair Removal Tool** | GAN-based image preprocessing research project | Python, TensorFlow |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rimonpramanik&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimonpramanik&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🏆 Top Projects
-| Project Name | Tech Stack | Link |
-| :--- | :--- | :--- |
-| **Portfolio Pro** | React, Tailwind, Framer Motion | [View](https://rimonpramanik.netlify.app/) |
-| **E-Commerce Hub** | MERN Stack, Stripe API | [GitHub](#) |
-| **Task Manager** | React, Firebase, Context API | [GitHub](#) |
+## 🎓 Education
+
+🎓 **BSc in Computer Science & Engineering**  
+American International University-Bangladesh  
+📊 CGPA: **3.73 / 4.00** (2022 – 2025)
 
 ---
 
-### 🤝 Connect with Me
+## 🏆 Certifications & Research
+- Responsive Web Design – **freeCodeCamp**
+- GAN-based Melanoma Image Preprocessing (Research – Pending)
+
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/rimonpramanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rimonpramanik" height="30" width="40" /></a>
-<a href="https://fb.com/rimonpramanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rimonpramanik" height="30" width="40" /></a>
-<a href="https://instagram.com/rimonpramanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rimonpramanik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rimonpramanik" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://fb.com/rimonpramanik" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+<a href="mailto:remonkumar21@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
 
-⭐️ From [Rimon Pramanik](https://rimonpramanik.netlify.app/)
+---
+
+⭐ **“Code with clarity. Build with purpose.”**
